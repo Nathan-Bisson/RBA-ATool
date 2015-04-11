@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">RGB-A Tool</string>
+    <string name="action_about">Nathan Bisson (biss0180)</string>
+    <string name="alpha">Transparantie (Alpha)</string>
+    <string name="black">Zwart</string>
+	<string name="blue">Blaux</string>
+	<string name="cyan">Cyaan</string>
+	<string name="green">Greeb</string>
+	<string name="magenta">Magenta</string>
+	<string name="red">Rood</string>
+	<string name="white">Wit</string>
+	<string name="yellow">Geel</string>
+    
+</resources>
